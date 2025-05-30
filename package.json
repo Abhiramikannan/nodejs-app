@@ -5,8 +5,8 @@
     "main": "app.js",
     "scripts": {
       "start": "node app.js",
-     // "test": "jest" 
-        "test": "jest --passWithNoTests"
+        "test": "jest" 
+       // "test": "jest --passWithNoTests"
     },
     "author": "Mahmoud-Shaaban",
     "license": "MIT",
